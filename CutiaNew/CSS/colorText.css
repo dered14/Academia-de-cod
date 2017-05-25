@@ -1,0 +1,85 @@
+
+
+/*Colorfy defineste cum vrei sa colorezi acele caractere*/
+
+.HTMLText .tag{
+  color:blue;
+  font-weight: bold;
+}
+
+.HTMLText .comment{
+  color:grey;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.HTMLText .string{
+  color:green;
+}
+
+.CSSText .normalChars{
+  color:black;
+  font-weight: normal;
+}
+
+.CSSText .string{
+  color:green;
+}
+
+.CSSText .tag{
+  color:red;
+  font-weight: bold;
+}
+
+.CSSText .class{
+  color:#0099ff;
+  font-weight: bold;
+}
+
+.CSSText .id{
+  color:purple;
+  font-weight: bold;
+}
+
+.CSSText .property{
+  color:DeepSkyBlue ;
+  font-style: italic;
+}
+
+.CSSText .number{
+  color:Chocolate;
+  font-style: normal;
+}
+
+.CSSText .unit{
+  color:Brown;
+  font-style: normal;
+}
+
+.CSSText .specialWords{
+  color:gray;
+  text-decoration: underline;
+}
+
+.JSText .string{
+  color:green;
+}
+
+.JSText .keyword{
+  color:CornflowerBlue ;
+}
+
+.JSText .function{
+  font-style: italic;
+  color:CornflowerBlue ;
+}
+
+.JSText .functionName{
+  font-weight: bold;
+  color:CornflowerBlue ;
+}
+
+.JSText .normalChars{
+  color:black;
+  font-weight: normal;
+}
